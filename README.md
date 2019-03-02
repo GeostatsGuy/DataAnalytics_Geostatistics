@@ -1,5 +1,5 @@
 # DataAnalytics_Geostatistics
-Short course on spatial stat analytics, geostatistics and machine learning.
+Short course on data analytics, geostatistics and machine learning for spatial modeling.
 
 #### Course Objectives:
 
