@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # DataAnalytics_Geostatistics
 Short course on data analytics, geostatistics and machine learning for spatial modeling.
 
